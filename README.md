@@ -5,7 +5,7 @@
 Pewlet-Hackard’s (PH’s) human resource department are anticipating staffing and expertise vacancies as many of their employees approach retirement age. Not only do they need to plan their retirement packages, but they need to plan for future staffing.  
 
 PH wants to ensure that they not only fill the upcoming positions, but they are filled with qualified candidates. 
-  1) So, initially, we were asked to identify who will be retiring and how many will be retiring by skill set? 
+  1) So, initially, we were asked to identify who will be retiring and how many will be retiring by skill set. 
   2) Furthermore, they want to explore the idea of creating a mentorship program to pass the baton of years of experience and skills to the next generation. 
 
 Moving away from the excel files containing their employee information, HP decided to upgrade by creating an employee database using PostgreSQL to strategically plan for their “silver tsunami”.  PostgreSQL is a free and open-source relational database system. As one of the data analysts tasked with this project, I was able to take the original six spreadsheets, convert them to csv files to be imported into tables utilizing the Structure Query Language (SQL). By assigning primary and foreign keys, we were able to join the tables and create queries to create more tables to address the staffing concerns.  
