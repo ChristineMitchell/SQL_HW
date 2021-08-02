@@ -29,7 +29,7 @@ HR would like to establish a mentorship program to match our upcoming retirees w
 Overall, it was wise for Pewlet-Hackard to complete this analysis. It appears that there are 90,398 employees between the ages of 64-69 that are eligible for retirement which is 35% of their workforce. Sixty-four percent of those retiring hold senior level positions. The distribution of titles of the retirees aligns with the distribution of titles of all other employees (those born after 1955). This indicates that the company will not lose all their senior level staff which is a good thing.
 ![Slide5](https://user-images.githubusercontent.com/82008319/127791526-ed23258d-4e60-4c43-8f48-3225beaf0250.JPG)
 
-However, they are still losing approximately 33% of their senior staff, so it is still wise to establish a mentorship program to not lose the wisdom of those retiring. As well, there are certainly more mentors available than mentees if all of the retirees become mentors and the only eligible mentees are those born in 1965. So, the criteria of the mentee eligibility should be revisited. 
+They are still losing approximately 33% of their total senior staff, so it is still wise to establish a mentorship program to not lose the wisdom of those retiring. However, there are certainly more mentors available than mentees if all of the retirees become mentors and the only eligible mentees are those born in 1965. So, the criteria of the mentee eligibility should be revisited. 
 ![Slide6](https://user-images.githubusercontent.com/82008319/127791532-c6af1116-8e82-4593-93d3-8c1509161ee7.JPG)
 
 <b>The summary detail was collected with the following five queries and created tables:</b>
